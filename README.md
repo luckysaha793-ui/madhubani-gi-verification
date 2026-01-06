@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Madhubani Painting GI – Official Verification</title>
 <style>
 body{font-family:Segoe UI,Arial,sans-serif;margin:0;background:#f4f6f9;color:#222}
 header{background:#4b1f6f;color:#fff;padding:25px;text-align:center}
