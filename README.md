@@ -3,29 +3,11 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<style>
-body{font-family:Segoe UI,Arial,sans-serif;margin:0;background:#f4f6f9;color:#222}
-header{background:#4b1f6f;color:#fff;padding:25px;text-align:center}
-header h1{margin:0;font-size:30px}
-header p{margin-top:8px;font-size:15px}
-section{background:#fff;margin:25px auto;padding:25px;max-width:1200px;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,.08)}
-h2{border-bottom:3px solid #ddd;padding-bottom:8px;color:#4b1f6f}
-.table-wrap{overflow-x:auto}
-table{width:100%;border-collapse:collapse;margin-top:15px}
-th,td{border:1px solid #ccc;padding:10px;vertical-align:top;text-align:left}
-th{background:#f1eef6}
-.qr-box{text-align:center;margin-top:20px}
-.qr-box img{max-width:180px}
-.note{font-size:14px;color:#555;margin-top:10px}
-footer{text-align:center;padding:20px;font-size:14px;color:#555}
-.badge{display:inline-block;background:#4b1f6f;color:#fff;padding:6px 12px;border-radius:20px;font-size:13px}
-</style>
 </head>
 <body>
 
 <header>
 <h1>Madhubani Painting – Geographical Indication (GI)</h1>
-<p>Official Public Verification Portal for Authorised Users</p>
 </header>
 
 <section>
@@ -62,7 +44,7 @@ footer{text-align:center;padding:20px;font-size:14px;color:#555}
 <tr><td>6</td><td>AU/20815/GI/37/6</td><td>Gobind Kumar Jha</td><td>Bhutan Border, Jaigaon</td><td>—</td></tr>
 <tr><td>7</td><td>AU/20816/GI/37/7</td><td>Nabita Jha</td><td>Village: Kansi</td><td>—</td></tr>
 <tr><td>8</td><td>AU/22860/GI/37/8</td><td>Laxmi Devi</td><td>Ranti</td><td>Registered</td></tr>
-<tr><td>9</td><td>AU/22861/GI/37/9</td><td><strong>Pintu Kumar</strong></td><td>Dhagjara</td><td><strong>Registered</strong></td></tr>
+<tr><td>9</td><td>AU/22861/GI/37/9</td><td>Pintu Kumar</td><td>Dhagjara</td><td>Registered</strong></td></tr>
 <tr><td>10</td><td>AU/22862/GI/37/10</td><td>Ramdai Devi</td><td>Ranti</td><td>Registered</td></tr>
 <tr><td>11</td><td>AU/22863/GI/37/11</td><td>Vinita Kumari</td><td>Chakdah</td><td>Registered</td></tr>
 <tr><td>12</td><td>AU/22864/GI/37/12</td><td>Priyanka Kumari</td><td>Ranti</td><td>Registered</td></tr>
@@ -111,8 +93,8 @@ footer{text-align:center;padding:20px;font-size:14px;color:#555}
 
 <section>
 <h2>QR Code – Public Verification</h2>
-<div class="qr-box">
-<a href="https://forms.gle/vGcbZpLGhwbFvAhG8" target="_blank"><img src="QR_Google_Form.png" alt="GI Verification QR Code – Form Submission" /></a>
+<div class="qr-box"> <img width="365" height="336" alt="image" src="https://github.com/user-attachments/assets/e34f4f00-80a6-4078-8742-80437b3d3768" />
+
 <p class="note">Scan this QR code to verify authorised user details and submit purchaser verification records.</p>
 </div>
 </section>
